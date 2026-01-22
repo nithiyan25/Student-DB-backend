@@ -1,3 +1,4 @@
+--upgrade pip
 fastapi==0.104.1
 uvicorn==0.24.0
 sqlalchemy==2.0.23
@@ -12,4 +13,5 @@ firebase-admin==6.3.0
 
 fastapi-cors==0.0.6
 
---upgrade pip
+
+
